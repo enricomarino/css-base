@@ -1,0 +1,8 @@
+{
+  "name": "css-base",
+  "repo": "enricomarino/css-base",
+  "version": "0.0.1",
+  "styles": ["style.css"],
+  "author": "Enrico Marino",
+  "license": "MIT"
+}
